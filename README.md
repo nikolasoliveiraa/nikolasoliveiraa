@@ -11,9 +11,6 @@ tenho facilidade em desenvolver ideias criativas
   <a href="https://www.youtube.com/@Eaenk" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
-
-
-
 ### Pricipais Habilidades:
 
 <img 
@@ -122,7 +119,6 @@ tenho facilidade em desenvolver ideias criativas
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-<br>
 <br>
 <br>
 
