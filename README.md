@@ -11,9 +11,7 @@ tenho facilidade em desenvolver ideias criativas
   <a href="https://www.youtube.com/@Eaenk" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
-<br>
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nikolasoliveiraa&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=9ae19d&text_color=c9d1d9&bg_color=0d1117"/> <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasoliveiraa&layout=compact&hide_border=true&title_color=fff&text_color=00bfbf&bg_color=0d1117" />
 
 
 ### Pricipais Habilidades:
@@ -124,6 +122,11 @@ tenho facilidade em desenvolver ideias criativas
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
+<br>
+<br>
+<br>
+
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nikolasoliveiraa&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=9ae19d&text_color=c9d1d9&bg_color=0d1117"/> <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasoliveiraa&layout=compact&hide_border=true&title_color=fff&text_color=00bfbf&bg_color=0d1117" />
 
 
 
