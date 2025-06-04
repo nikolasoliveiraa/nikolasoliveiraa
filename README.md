@@ -97,6 +97,9 @@ tenho facilidade em desenvolver ideias criativas
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
 />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="25" alt="Notion logo" style="display: inline-block;" />
+
 <br>
 <br>
 
