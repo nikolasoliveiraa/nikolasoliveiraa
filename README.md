@@ -3,7 +3,7 @@
 **`Desenvolvedor Full Stack`**
 
 Me chamo Nikolas Oliveira, tenho 19 anos, Atualmente estudo Analise e desinvolvimento de sistemas, na faculdade Nove de julho (Uninove).
-Desejo prosseguir carreira como Desenvovedor Front-End, sempre apaixonado por design 
+Desejo prosseguir carreira como Desenvovedor Full Stack, sempre apaixonado por design 
 tenho facilidade em desenvolver ideias criativas
 <div> 
   <a href="www.linkedin.com/in/nikolasoliveiraa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
