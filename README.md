@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9AE19D&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Nikolas+Oliveira;Seja+Bem+vindo!+:%29)](https://git.io/typing-svg) 
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Full Stack`**
 
 Me chamo Nikolas Oliveira, tenho 19 anos, Atualmente estudo Analise e desinvolvimento de sistemas, na faculdade Nove de julho (Uninove).
 Desejo prosseguir carreira como Desenvovedor Front-End, sempre apaixonado por design 
