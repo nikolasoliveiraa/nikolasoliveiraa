@@ -48,14 +48,43 @@ tenho facilidade em desenvolver ideias criativas
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Tailwindcss" 
+    title="Tailwindcss"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+/>
+
+
 <br>
 <br>
 
 ### Ferramentas:
+
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Windons" 
+    title="Windons"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Visual studio code" 
+    title="VScode"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
@@ -63,26 +92,8 @@ tenho facilidade em desenvolver ideias criativas
 
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Figma" 
+    title="Figma"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
@@ -90,15 +101,21 @@ tenho facilidade em desenvolver ideias criativas
 
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Git" 
+    title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="25" alt="Notion logo" style="display: inline-block;" />
-
+<img 
+    align="left" 
+    alt="Github" 
+    title="Github"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  
+/>
 <br>
 <br>
 
@@ -106,17 +123,47 @@ tenho facilidade em desenvolver ideias criativas
 
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Vue.js" 
+    title="Vue.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"  
+/>
+          
+<br>
+<br>
+
+### Diferencias:
+
+<img 
+  align="left" 
+  alt="JavaScript" 
+  title="JavaScript"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="25" alt="Notion logo" style="display: inline-block;" 
+/>
+
+<img 
+  align="left" 
+  alt="JavaScript" 
+  title="JavaScript"
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"      
 />
 
 <br>
 <br>
+<br>
+<br>
 
-  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=nikolasoliveiraa&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=9ae19d&text_color=c9d1d9&bg_color=0d1117"/> <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasoliveiraa&layout=compact&hide_border=true&title_color=fff&text_color=00bfbf&bg_color=0d1117" />
+  <img 
+    width="49%" 
+    height="190px" 
+    src="https://github-readme-stats.vercel.app/api?username=nikolasoliveiraa&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=9ae19d&text_color=c9d1d9&bg_color=0d1117"/> <img width="40%" height="195px"  
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasoliveiraa&layout=compact&hide_border=true&title_color=fff&text_color=00bfbf&bg_color=0d1117" 
+  />
 
 
 
