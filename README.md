@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Me chamo Nikolas Oliveira, tenho 19 anos, Atualmente estudo Analise e desinvolvimento de sistemas, na faculdade Nove de julho (Uninove).
+Me chamo Nikolas Oliveira, tenho 21 anos, Atualmente estudo Analise e desinvolvimento de sistemas, na faculdade Nove de julho (Uninove).
 Desejo prosseguir carreira como Desenvovedor Full Stack, sempre apaixonado por design 
 tenho facilidade em desenvolver ideias criativas
 <div> 
